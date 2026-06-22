@@ -1,7 +1,7 @@
 #  🙋 Hello
 
 
-<img width="900" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:feac5e,50:c779d0,100:4bc0c8&text=Hey👋%20XiaoXu%20here.&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20page😊&descSize=40&descAlignY=57&fontAlignY=29">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:11998e,50:38ef7d,100:a8ff78&text=Hey👋%20XiaoXu%20here.&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20page😊&descSize=40&descAlignY=57&fontAlignY=29">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=sunshine+and+hope!&center=true&size=27)](https://git.io/typing-svg)
 
