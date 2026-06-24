@@ -8,9 +8,9 @@
 
 ## About Me
 <p>&emsp;&emsp;[www.xp2026.me]</p>
-<p>&emsp;&emsp;嗨，你好，我是小栩. 热爱编程、读书、旅行;</p>
-<p>&emsp;&emsp;热爱计算机科学 和 IT 互联网事业，希望能成为一名优秀的开发者.</p>
-<p>&emsp;&emsp;徒步、读书、绘画和象棋不是装饰，它们构成我理解世界的感知系统：路线、风景、构图和策略.</p>
+<p>&emsp;&emsp;嗨，你好，我是小栩。热爱编程、读书与旅行;</p>
+<p>&emsp;&emsp;深耕图形渲染、几何算法方向，主攻参数化设计、纹理映射、样条曲线建模等，立志成为一名优秀的开发者;</p>
+<p>&emsp;&emsp;于我而言，旅行、读书、绘画、象棋从不是闲暇点缀，它们构成我认知世界的体系：行路风物、文字心境、画面构图、逻辑策略.</p>
 
 
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
