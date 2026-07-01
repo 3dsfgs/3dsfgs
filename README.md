@@ -27,8 +27,8 @@
     </td>
     <!-- 右栏：语言统计卡片，padding-left 控制两者间隙 -->
     <td style="width:auto; border:0; margin:0; padding-left:6px;">
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dsfgs&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=3dsfgs&layout=pie&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=3dsfgs&layout=pie&langs_count=6)
 
   </tr>
 </table>
